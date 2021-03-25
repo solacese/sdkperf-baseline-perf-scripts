@@ -18,9 +18,9 @@ Edit env.sh configure the following variables according to your environment:
 
 ## Running Test Cases
 
-Run each test case and record result in the xls file.
+Run each test case and record results in the xls file.
 
-If needed edit the test case scripts to sewt the appropriate message size (-msa) for your use case.
+If needed edit the test case scripts to set the appropriate message size (-msa) for your use case.
 
 For tests involving queues first run the confugration SEMP script to initialise perf queues.
 
